@@ -1,0 +1,22 @@
+{
+    "Records": [
+        {
+            "EventSource": "aws:sns",
+            "EventVersion": "1.0",
+            "EventSubscriptionArn": "arn:aws:sns:eu-west-1:204147241606:stackery-stack-stackery-env-Topic:37bd9656-a74e-44c6-ad95-9a986a7ce0fd",
+            "Sns": {
+                "Type": "Notification",
+                "MessageId": "6bd84fea-462d-58a4-8b11-1a59ef84a62a",
+                "TopicArn": "arn:aws:sns:eu-west-1:204147241606:stackery-stack-stackery-env-Topic",
+                "Subject": null,
+                "Message": "{\"local-event\":1}",
+                "Timestamp": "2019-07-25T12:58:17.400Z",
+                "SignatureVersion": "1",
+                "Signature": "NUzcBVptfh550mn+c0h9SsVXZcfSwpLcIiO7JyXXjacN0GKruN362hl9AXkk718+bYnMl0qv42C/JqdouWn6KKnGz+5MhwZJaMkVqxK1a3OyUWa0LKTIxXJU+btSyi8Zl7mLrP903xPziYz6Cbr4G0inAjAVxO8TSTbzdeCa7/g7SCmjTEypPkxr7SB2ywf8zTqLRVmGRpxuheIL0Awz5cgvrB1qR6/1Jb4xMhJVkSIoUa6AUIRLzSYkwL/HrBPOknOJOgJWN3voxE5roR7kOC3RKR/rcEpuwCXlm/XknjK8tOaQqV7K+XHK7NJTTzUmVoOUBL3gZvchKhG/QwaovQ==",
+                "SigningCertUrl": "https://sns.eu-west-1.amazonaws.com/SimpleNotificationService-6aad65c2f9911b05cd53efda11f913f9.pem",
+                "UnsubscribeUrl": "https://sns.eu-west-1.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:eu-west-1:204147241606:stackery-stack-stackery-env-Topic:37bd9656-a74e-44c6-ad95-9a986a7ce0fd",
+                "MessageAttributes": {}
+            }
+        }
+    ]
+}
